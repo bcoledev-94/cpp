@@ -1,0 +1,8 @@
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/first_project.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/cpp_version.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/hello_world.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/logging.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/preprocessor.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/variables.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Brandon/CLionProjects/first-project/build/CMakeFiles/ZERO_CHECK.dir
